@@ -1,0 +1,105 @@
+body {
+    background-color: #B9B9B9;
+}
+.container_X {
+    background-color: #ffffff;
+    width: 90%;
+    margin: auto;
+    padding: 10px;
+}
+.container_H_headday {
+    color: #FFFFFF;
+    font-size: 20px;
+    background-color:red;
+    width: 12%;
+    height: 50px;
+    padding-top: 1px;
+    padding-right: 5px;
+    margin: 3px;
+    display: inline-block;
+    text-align: right;
+}
+.container_space {
+    color: #FFFFFF;
+    font-size: 20px;
+    /*background-color:red;*/
+    width: 2%;
+    height: 10px;
+    padding-top: 1px;
+    padding-right: 5px;
+    margin: 3px;
+    display: inline-block;
+    text-align: right;
+}
+.container_N_headday {
+    color: #FFFFFF;
+    font-size: 20px;
+    background-color:#039be5;
+    width: 12%;
+    height: 50px;
+    padding-top: 1px;
+    padding-right: 5px;
+    margin: 3px;
+    display: inline-block;
+    text-align: right;
+}
+.container_birth {
+    color: black;
+    font-size: 20px;
+    background-color:#ccff90;
+    width: 12%;
+    height: 50px;
+    padding-top: 1px;
+    padding-right: 5px;
+    margin: 3px;
+    display: inline-block;
+    text-align: right;
+    font-weight:bold;
+}
+.container_H_day {
+    /*color: #FFFFFF;*/
+    /*color: black;*/
+    font-size: 20px;
+    width: 12%;
+    height: 50px;
+    padding-top: 1px;
+    padding-right: 5px;
+    margin: 3px;
+    background-color:white;
+    border: 1px solid #ffcdd2;
+    display: inline-block;
+    text-align: right;
+    font-weight:bold;
+}
+.container_Holiday_day {
+    font-size: 20px;
+    width: 12%;
+    height: 50px;
+    padding-top: 1px;
+    padding-right: 5px;
+    margin: 3px;
+    background-color:#ff8a80;
+    border: 1px solid #ffcdd2;
+    display: inline-block;
+    text-align: right;
+    font-weight:bold;
+}
+.container_N_day {
+    /*color: #FFFFFF;*/
+    /*color: black;*/
+    font-size: 20px;
+    background-color:white;
+    width: 12%;
+    height: 50px;
+    padding-top: 1px;
+    padding-right: 5px;
+    border: 1px solid #b2ebf2;
+    margin: 3px;
+    display: inline-block;
+    text-align: right;
+    font-weight:bold;
+}
+/*.day{
+    margin: 10px;
+    <div class="col s9 m1 right-align card-panel cyan"><p>1</p></div>
+}*/
