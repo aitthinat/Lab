@@ -18,6 +18,7 @@ body {
     margin: 3px;
     display: inline-block;
     text-align: right;
+    border-radius: 5px
 }
 .container_space {
     color: #FFFFFF;
@@ -42,6 +43,7 @@ body {
     margin: 3px;
     display: inline-block;
     text-align: right;
+    border-radius: 5px
 }
 .container_birth {
     color: black;
@@ -55,6 +57,7 @@ body {
     display: inline-block;
     text-align: right;
     font-weight:bold;
+    border-radius: 5px
 }
 .container_H_day {
     /*color: #FFFFFF;*/
@@ -70,6 +73,7 @@ body {
     display: inline-block;
     text-align: right;
     font-weight:bold;
+    border-radius: 5px
 }
 .container_Holiday_day {
     font-size: 20px;
@@ -83,6 +87,7 @@ body {
     display: inline-block;
     text-align: right;
     font-weight:bold;
+    border-radius: 5px
 }
 .container_N_day {
     /*color: #FFFFFF;*/
@@ -98,6 +103,7 @@ body {
     display: inline-block;
     text-align: right;
     font-weight:bold;
+    border-radius: 5px
 }
 /*.day{
     margin: 10px;
